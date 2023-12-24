@@ -9,7 +9,7 @@ git add .   // 将项目添加到暂存区  .代表所有文件 若某个文件�
 git commit -m "注释内容"  
 // 在github上新建一个仓库并复制地址  
 git branch -M main //上传到main分支  
-git remote add origin gttps://github.com/github名/仓库名  
+git remote add origin https://github.com/github名/仓库名  
 git push -u origin main  
 // 有时候需要token命令牌 在githun个人settings中的developer settings解决  
   
