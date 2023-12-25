@@ -2,11 +2,11 @@
 
 #### 记录学习使用git过程中常使用的命令操作以及问题
 
-
+***
 
 **rm -rf .git** ——取消git init命令   
 
-
+****
 
 **上传项目操作**:
 
@@ -26,11 +26,11 @@
 
 * 有时候需要token命令牌 在github个人settings中的developer settings解决 
 
-
+***
 
 **git status** 查看状态 
 
-
+****
 
 **更新操作**：
 
@@ -42,7 +42,7 @@
 
 * **git push origin main**  ——或者master
 
-
+****
 
 ### 从远程仓库中拉取项目
 
@@ -60,9 +60,7 @@
 
 * **git push -u origin main** —— 提交到远程仓库
 
-
-
-
+****
 
 ### git bash 代理问题
 
@@ -71,3 +69,5 @@
 
 * 取消代理
   * **git config --global --unset http.https://github.com.proxy**
+
+***
