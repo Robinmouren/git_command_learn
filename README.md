@@ -40,5 +40,5 @@ git rm -r -cached + **想要删除的文件名**
 
 git commit -m "**提交说明**"
 
-git push -u origin main **提交源程仓库**
+git push -u origin main **提交远程仓库**
 
